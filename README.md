@@ -2,17 +2,20 @@
 
 ## Table of Contents
 
-- [*Frasier*](#frasier)
-- [*It's Always Sunny in Philadelphia*](#its-always-sunny-in-philadelphia)
-- [*Jet Lag: The Game*](#jet-lag-the-game)
-- [*The Sopranos*](#the-sopranos)
-- [*Taskmaster*](#taskmaster)
-- [*Would I Lie To You?*](#would-i-lie-to-you)
+- [Television](#television)
+  - [*Frasier*](#frasier)
+  - [*It's Always Sunny in Philadelphia*](#its-always-sunny-in-philadelphia)
+  - [*Jet Lag: The Game*](#jet-lag-the-game)
+  - [*The Sopranos*](#the-sopranos)
+  - [*Taskmaster*](#taskmaster)
+  - [*Would I Lie To You?*](#would-i-lie-to-you)
 - [Standup comedy](#standup-comedy)
 - [Odds and ends](#odds-and-ends)
 
 
-## *Frasier*
+## Television
+
+### *Frasier*
 
 > "A rug? Where a rug doesn't belong?"
 >
@@ -23,7 +26,7 @@
 > &ndash; <cite>Martin Crane, "A Tsar is Born" (<a href="https://www.youtube.com/watch?v=z17sFsTOMYY&t=1s">Season 7, Episode 7</a>)</cite>
 
 
-## *It's Always Sunny in Philadelphia*
+### *It's Always Sunny in Philadelphia*
 
 > "What are *you?*"
 >
@@ -50,7 +53,7 @@
 > &ndash; <cite>Charlie Kelly, "The Gang Gets Lost in the Woods" (<a href="https://www.youtube.com/watch?v=gVVnH_CjTzM">Season 6, Episode 11</a>)</cite>
 
 
-## *Jet Lag: The Game*
+### *Jet Lag: The Game*
 
 > "I've been navigating with just, like, cardinal directions and vibes."
 >
@@ -81,7 +84,7 @@
 > &ndash; <cite>Ben Doyle (<a href="https://www.youtube.com/watch?v=jrTIrJmph2A?&t=486s">Season 7, Episode 3</a>)</cite>
 
 
-## *The Sopranos*
+### *The Sopranos*
 
 > "Balsamic, balsamic, balsamic. My mother never heard of balsamic."
 > 
@@ -96,7 +99,7 @@
 > &ndash; <cite>Phil Leotardo, "The Blue Comet" (<a href="https://youtu.be/7joYigaOgeQ?t=2">Season 6, Episode 20</a>)</cite>
 
 
-## *Taskmaster*
+### *Taskmaster*
 
 > "You've got no chutzpah."
 >
@@ -111,7 +114,7 @@
 > &ndash; <cite>Dara &Oacute; Briain, "Long-Legged Lobster" (<a href="https://www.youtube.com/watch?v=mRYeDoFDHHc&t=838s">Season 14, Episode 6</a>)</cite>
 
 
-## *Would I Lie To You?*
+### *Would I Lie To You?*
 
 > "Vegetables."
 >
